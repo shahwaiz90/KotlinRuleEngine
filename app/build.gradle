@@ -46,8 +46,7 @@ dependencies {
     implementation libs.androidx.ui.graphics
     implementation libs.androidx.ui.tooling.preview
     implementation libs.androidx.material3
-    implementation project(':kotlinruleengine')
-//    implementation 'com.github.shahwaiz90:KotlinRuleEngine:0.1'
+    implementation libs.kotlinruleengine
     testImplementation libs.junit
     androidTestImplementation libs.androidx.junit
     androidTestImplementation libs.androidx.espresso.core
