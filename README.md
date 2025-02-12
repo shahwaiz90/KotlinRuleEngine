@@ -86,6 +86,8 @@ fun testShowWithoutVAT_ShouldReturnTrue_WhenServiceTypeIsPrepaid() {
     assertTrue(result)
 }
 ```
+<img width="837" alt="Screenshot 2025-02-12 at 3 29 35 PM" src="https://github.com/user-attachments/assets/9569a56e-bf87-4a51-b188-aaf7f261f8aa" />
+
 
 ## 🤝 Contributing
 1. Fork the repo
