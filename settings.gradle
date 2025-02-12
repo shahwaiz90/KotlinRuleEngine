@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KotlinRuleEngine"
 include ':app'
-include ':app:kotlinruleengine'
+include ':kotlinruleengine'
