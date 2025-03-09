@@ -19,7 +19,8 @@ This project is a **Rule Engine** implemented in Kotlin for Android applications
 |   |-- RuleEngineTest.kt     # Unit tests for rule evaluation
 |-- README.md                 # Project documentation 
 ```
-
+## Library installation
+ ```implementation 'com.github.shahwaiz90:KotlinRuleEngine:0.1.3'```
 ## 📥 Installation
 1. Clone the repository:
    ```sh
